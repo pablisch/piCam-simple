@@ -16,3 +16,16 @@ The script can be stopped by running the following command:
 
 `sudo killall python`
 
+Photos of birds in my garden taken with piCam:
+![robin](images/robin.png)
+
+![pigeon](images/pigeon.png)
+
+![sparrows](images/sparrows.png)
+
+Photos taken during a high altitude balloon flight:
+![The moment the balloon burst](images/balloon-burst.png)
+
+![The launch site below](images/launch-site.jpg)
+
+![Half way up](images/half-way-up.jpg)
