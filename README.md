@@ -16,6 +16,9 @@ The script can be stopped by running the following command:
 
 `sudo killall python`
 
+A Raspberry Pi with camera module:
+![Raspberry Pi with camera module](images/camera-module.png)
+
 Photos of birds in my garden taken with piCam:
 ![robin](images/robin.png)
 
